@@ -1,0 +1,21 @@
+{
+  "name": "pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.8.0",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.16.8",
+    "esbuild-register": "^3.4.2"
+  }
+}
